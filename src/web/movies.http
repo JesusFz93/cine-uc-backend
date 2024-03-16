@@ -4,4 +4,4 @@
 GET {{api}}
 
 ### obtener una pelicula por id
-GET {{api}}/2832837
+GET {{api}}/65f5df757ed3aab951d6ce99
