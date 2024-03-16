@@ -1,0 +1,403 @@
+[
+    {
+      "adult": false,
+      "backdrop_path": "/gJL5kp5FMopB2sN4WZYnNT5uO0u.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 1011985,
+      "original_language": "en",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+      "popularity": 1728.914,
+      "poster_path": "https://image.tmdb.org/t/p/w500/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "video": false,
+      "vote_average": 7.014,
+      "vote_count": 109
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+      "genre_ids": [
+        878,
+        10749,
+        35
+      ],
+      "id": 792307,
+      "original_language": "en",
+      "original_title": "Poor Things",
+      "overview": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación.",
+      "popularity": 1584.682,
+      "poster_path": "https://image.tmdb.org/t/p/w500/mm1M6CoN2qLy8BpnrmYEVToQHJR.jpg",
+      "release_date": "2023-12-07",
+      "title": "Pobres criaturas",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 2232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xvk5AhfhgQcTuaCQyq3XqAnhEma.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 848538,
+      "original_language": "en",
+      "original_title": "Argylle",
+      "overview": "Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sindicato clandestino, la introvertida autora de novelas de espías Elly Conway y su gato se ven inmersos en el verdadero mundo del espionaje… donde nada, ni nadie, es lo que parece.",
+      "popularity": 1445.91,
+      "poster_path": "https://image.tmdb.org/t/p/w500/aSm3b2gaDTnt35RekjEEanxIusg.jpg",
+      "release_date": "2024-01-31",
+      "title": "Argylle",
+      "video": false,
+      "vote_average": 6.126,
+      "vote_count": 544
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 763215,
+      "original_language": "en",
+      "original_title": "Damsel",
+      "overview": "La boda de una joven con un príncipe encantador se convierte en una encarnizada lucha por sobrevivir cuando la ofrecen como sacrificio a una dragona escupefuego.",
+      "popularity": 1419.128,
+      "poster_path": "https://image.tmdb.org/t/p/w500/6tJWxRfBKWGIPFkfLTod2CgCexU.jpg",
+      "release_date": "2024-03-08",
+      "title": "Damsel",
+      "video": false,
+      "vote_average": 7.306,
+      "vote_count": 672
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cu5Qk2QHxOyyMrD3Bq93DxgmJer.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 1046090,
+      "original_language": "zh",
+      "original_title": "周處除三害",
+      "overview": "Cuando descubre que solo es el tercer fugitivo más buscado de Taiwán, un ambicioso criminal decide eliminar del podio a los dos primeros.",
+      "popularity": 1226.047,
+      "poster_path": "https://image.tmdb.org/t/p/w500/aqfS8ZHWq9UY52XRZXVmwBHB2r8.jpg",
+      "release_date": "2023-10-06",
+      "title": "El cerdo, la serpiente y la paloma",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDeUmPe4MF35WWlAqj4QFX5UauJ.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 1096197,
+      "original_language": "pt",
+      "original_title": "No Way Up",
+      "overview": "Esta película sigue a personajes de orígenes muy diferentes que se juntan cuando el avión en el que viajan se estrella en el Océano Pacífico. Cuando el avión se detiene peligrosamente cerca del borde de un barranco con los pasajeros y la tripulación atrapados en una bolsa de aire, se produce una lucha de pesadilla por la supervivencia en la que el suministro de aire se agota y los peligros se acercan por todos lados.",
+      "popularity": 1196.475,
+      "poster_path": "https://image.tmdb.org/t/p/w500/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
+      "release_date": "2024-01-18",
+      "title": "Atrapados en lo profundo",
+      "video": false,
+      "vote_average": 6.085,
+      "vote_count": 223
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8uVKfOJUhmybNsVh089EqLHUYEG.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+      "popularity": 1174.289,
+      "poster_path": "https://image.tmdb.org/t/p/w500/A1VxKdqSSDdqUWLPjnnrtkJWtLx.jpg",
+      "release_date": "2024-02-27",
+      "title": "Dune: Parte dos",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 1594
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/47olX0FCvUCfAqlp8cK0O5fKLav.jpg",
+      "genre_ids": [
+        16,
+        35,
+        878
+      ],
+      "id": 1239251,
+      "original_language": "en",
+      "original_title": "Megamind vs. the Doom Syndicate",
+      "overview": "El antiguo equipo de villanos de Megamind, El sindicato del mal, han regresado.  Nuestro héroe cabezon azul recién coronado, ahora debe mantener apariencias malvadas hasta que pueda reunir a sus amigos para evitar que sus antiguos compañeros malvados lancen Metro City a la Luna.",
+      "popularity": 952.169,
+      "poster_path": "https://image.tmdb.org/t/p/w500/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+      "release_date": "2024-03-01",
+      "title": "Megamind contra el sindicato del mal",
+      "video": false,
+      "vote_average": 5.667,
+      "vote_count": 111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+      "genre_ids": [
+        878,
+        28,
+        80
+      ],
+      "id": 932420,
+      "original_language": "en",
+      "original_title": "Code 8 Part II",
+      "overview": "Una chica que lucha por buscar justicia para su hermano asesinado por policías corruptos. Ella solicita la ayuda de un ex convicto y su ex pareja, pero deben enfrentar a un sargento de policía muy respetado y bien protegido.",
+      "popularity": 930.092,
+      "poster_path": "https://image.tmdb.org/t/p/w500/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",
+      "release_date": "2024-02-27",
+      "title": "Código 8 (Parte 2)",
+      "video": false,
+      "vote_average": 6.639,
+      "vote_count": 274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 872585,
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "popularity": 815.967,
+      "poster_path": "https://image.tmdb.org/t/p/w500/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+      "release_date": "2023-07-19",
+      "title": "Oppenheimer",
+      "video": false,
+      "vote_average": 8.117,
+      "vote_count": 7145
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ybn3jCia5XBD0ZgEM07gcUPuRNh.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14
+      ],
+      "id": 508883,
+      "original_language": "ja",
+      "original_title": "君たちはどう生きるか",
+      "overview": "La película muestra el crecimiento psicológico de un adolescente a través de interacciones con sus amigos y su tío. Está basada en el libro de 1937 del mismo nombre escrito por Genzaburo Yoshino.",
+      "popularity": 807.379,
+      "poster_path": "https://image.tmdb.org/t/p/w500/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg",
+      "release_date": "2023-07-14",
+      "title": "El chico y la garza",
+      "video": false,
+      "vote_average": 7.487,
+      "vote_count": 1071
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10752
+      ],
+      "id": 969492,
+      "original_language": "en",
+      "original_title": "Land of Bad",
+      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+      "popularity": 748.817,
+      "poster_path": "https://image.tmdb.org/t/p/w500/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+      "release_date": "2024-01-25",
+      "title": "Rescate imposible",
+      "video": false,
+      "vote_average": 6.953,
+      "vote_count": 333
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/meyhnvssZOPPjud4F1CjOb4snET.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751
+      ],
+      "id": 940551,
+      "original_language": "en",
+      "original_title": "Migration",
+      "overview": "Una familia de patos intenta convencer a su sobreprotector padre para que se vayan a las vacaciones de su vida.",
+      "popularity": 730.411,
+      "poster_path": "https://image.tmdb.org/t/p/w500/brAqSBoSXzxEYV6rGYwbRvhlXCE.jpg",
+      "release_date": "2023-12-06",
+      "title": "Migración: un viaje patas arriba",
+      "video": false,
+      "vote_average": 7.553,
+      "vote_count": 929
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1072790,
+      "original_language": "en",
+      "original_title": "Anyone But You",
+      "overview": "Después de una primera cita increíble, la ardiente atracción entre ambos se enfría. Parecían la pareja perfecta, pero algo sucede y la cosa no va a más. Hasta que se reencuentran inesperadamente en una boda en Australia. Allí hacen lo que haría cualquier adulto: fingir que son una pareja.",
+      "popularity": 655.69,
+      "poster_path": "https://image.tmdb.org/t/p/w500/gvpU4eMgDC6LpWLxnqGW3uMFDx3.jpg",
+      "release_date": "2023-12-21",
+      "title": "Cualquiera menos tú",
+      "video": false,
+      "vote_average": 7.042,
+      "vote_count": 971
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la \"especia melange\", la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "popularity": 611.77,
+      "poster_path": "https://image.tmdb.org/t/p/w500/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg",
+      "release_date": "2021-09-15",
+      "title": "Dune",
+      "video": false,
+      "vote_average": 7.788,
+      "vote_count": 10736
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg",
+      "genre_ids": [
+        10751,
+        878,
+        28,
+        35
+      ],
+      "id": 1094556,
+      "original_language": "en",
+      "original_title": "The Thundermans Return",
+      "overview": "Cuando comienzan una nueva era de lucha contra el crimen pero un salvamento sale mal, los Thundermans son enviados de vuelta a Hiddenville.",
+      "popularity": 501.045,
+      "poster_path": "https://image.tmdb.org/t/p/w500/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
+      "release_date": "2024-03-07",
+      "title": "El retorno de los Thunderman",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xi2pblvQtCnh26SeOYzx1YX3DLT.jpg",
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "id": 1227816,
+      "original_language": "en",
+      "original_title": "Red Right Hand",
+      "overview": "Cash intenta llevar una vida honesta y tranquila alejado del mundo criminal, pero cuando Big Cat, la capo de la droga de los Apalaches, le obliga a volver a sus servicios, demuestra ser capaz de cualquier cosa para proteger al pueblo y a la única familia que le queda.",
+      "popularity": 484.264,
+      "poster_path": "https://image.tmdb.org/t/p/w500/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+      "release_date": "2024-02-22",
+      "title": "Red Right Hand",
+      "video": false,
+      "vote_average": 6.981,
+      "vote_count": 53
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/824e60sDlEXUP1vXCYNqh5RSlI5.jpg",
+      "genre_ids": [
+        878,
+        12,
+        18
+      ],
+      "id": 636706,
+      "original_language": "en",
+      "original_title": "Spaceman",
+      "overview": "Durante una misión de investigación, un astronauta descubre que su matrimonio está en problemas, Por suerte, cuenta con la ayuda de una misteriosa criatura escondida en su nave.",
+      "popularity": 397.084,
+      "poster_path": "https://image.tmdb.org/t/p/w500/q4G7NXuQ0hDCdO6PUQswyU0VDiF.jpg",
+      "release_date": "2024-02-23",
+      "title": "El astronauta",
+      "video": false,
+      "vote_average": 6.699,
+      "vote_count": 344
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 866398,
+      "original_language": "en",
+      "original_title": "The Beekeeper",
+      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+      "popularity": 361.907,
+      "poster_path": "https://image.tmdb.org/t/p/w500/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg",
+      "release_date": "2024-01-08",
+      "title": "Beekeeper: El protector",
+      "video": false,
+      "vote_average": 7.468,
+      "vote_count": 1696
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12
+      ],
+      "id": 1022796,
+      "original_language": "en",
+      "original_title": "Wish",
+      "overview": "Asha y una pequeña bola de energía ilimitada llamada Star demuestran que cuando la voluntad de un ser humano valiente se conecta con la magia de las estrellas, pueden suceder cosas maravillosas.",
+      "popularity": 357.317,
+      "poster_path": "https://image.tmdb.org/t/p/w500/1VXMrUioKfPAPSsezHKexx77Dbz.jpg",
+      "release_date": "2023-11-13",
+      "title": "Wish: El poder de los deseos",
+      "video": false,
+      "vote_average": 6.615,
+      "vote_count": 863
+    }
+  ]
